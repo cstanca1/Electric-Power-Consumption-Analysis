@@ -94,7 +94,6 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
 
-
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 
@@ -112,3 +111,15 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+## Execution Instructions:
+
+* download data file under /data folder
+
+* run plot1.R to generate plot1.png
+
+* run plot2.R to generate plot2.png
+
+* run plot3.R to generate plot3.png
+
+* run plot4.R to generate plot4.png
